@@ -1,6 +1,6 @@
 # minggu_6
 
-MI2B-15-FAIQ MAULANA
+MI2A ADINDA NURRUL IZZA
 
 ## Getting Started
 
